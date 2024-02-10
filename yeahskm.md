@@ -1,6 +1,3 @@
-![](https://i.postimg.cc/gcgN9Y5h/yeahskm.png)
-<h1>yeahskm</h1>
-<p>
 skm_steedie_moshpit
 skm_steedie_moshpit_big
 skm_steedie_contraband2
@@ -36,4 +33,3 @@ HPT_debug_large
 skm_cpt_steedie_contraband
 skm_cpt_moshpit
 skm_cpt_beb
-</p>
